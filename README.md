@@ -12,8 +12,9 @@ git push origin :refs/tags/12345
 - [sinon](https://github.com/sinonjs/sinon)
 - [descartes](https://github.com/mariusGundersen/descartes)
 
-## css grid
+## css flex
 - [flexgrid](http://flexboxgrid.com/)
+- [flexpattern](http://www.flexboxpatterns.com/home)
 
 
 ## dotFiles
