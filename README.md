@@ -18,21 +18,6 @@ git push origin :refs/tags/12345
 
 
 ## dotFiles
-### .editorconfig
-```
-root = true
-
-[*]
-indent_style = tab
-end_of_line = lf
-charset = utf-8
-trim_trailing_whitespace = true
-insert_final_newline = true
-
-[{package.json,*.yml,*.scss, *.jade}]
-indent_style = space
-indent_size = 2
-
-[*.md]
-trim_trailing_whitespace = false
-```
+- [.gitignore](https://github.com/GitScrum/Notes/blob/master/.gitignore)
+- [.npmignore](https://github.com/GitScrum/Notes/blob/master/.npmignore)
+- [.editorconfig](https://github.com/GitScrum/Notes/blob/master/.editorconfig)
