@@ -15,6 +15,7 @@ git push origin :refs/tags/12345
 ## css flex
 - [flexgrid](http://flexboxgrid.com/)
 - [flexpattern](http://www.flexboxpatterns.com/home)
+- [css-flexbox](http://premium.wpmudev.org/blog/css-flexbox/)
 
 
 ## dotFiles
