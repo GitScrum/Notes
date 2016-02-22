@@ -18,6 +18,7 @@ git push origin :refs/tags/12345
 
 ## css flex
 - [flexgrid](http://flexboxgrid.com/)
+- [mantis-grid](http://mantisjs.github.io/mantis-grid/)
 - [flexpattern](http://www.flexboxpatterns.com/home)
 - [css-flexbox](http://premium.wpmudev.org/blog/css-flexbox/)
 
