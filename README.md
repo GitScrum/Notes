@@ -10,7 +10,7 @@ git push origin :refs/tags/12345
 
 ### Change cmod if files already in repository
 ```console
-$ git update-index --add --chmod=+x test-file
+git update-index --add --chmod=+x test-file
 ```
 
 ## Test spies
