@@ -8,6 +8,11 @@ git tag -d 12345
 git push origin :refs/tags/12345
 ```
 
+### Change cmod if files already in repository
+```console
+$ git update-index --add --chmod=+x test-file
+```
+
 ## Test spies
 - [sinon](https://github.com/sinonjs/sinon)
 - [descartes](https://github.com/mariusGundersen/descartes)
