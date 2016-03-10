@@ -32,3 +32,6 @@ git update-index --add --chmod=+x test-file
 - [.gitignore](https://github.com/GitScrum/Notes/blob/master/.gitignore)
 - [.npmignore](https://github.com/GitScrum/Notes/blob/master/.npmignore)
 - [.editorconfig](https://github.com/GitScrum/Notes/blob/master/.editorconfig)
+
+## SVG
+- [worldvectorlogo](https://worldvectorlogo.com/)
