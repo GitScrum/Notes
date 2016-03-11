@@ -38,4 +38,4 @@ git update-index --add --chmod=+x test-file
 
 ## awesome
 - [vue](https://github.com/vuejs/awesome-vue)
-- [avq](https://github.com/sindresorhus/awesome-ava)
+- [ava](https://github.com/sindresorhus/awesome-ava)
