@@ -24,13 +24,13 @@ git update-index --add --chmod=+x test-file
 - [cerberus](http://tedgoas.github.io/Cerberus/)
 
 ## css flex
-- [flexgrid](http://flexboxgrid.com/)
-- [mantis-grid](http://mantisjs.github.io/mantis-grid/)
 - [flexpattern](http://www.flexboxpatterns.com/home)
 - [css-flexbox](http://premium.wpmudev.org/blog/css-flexbox/)
 
 ## css grid
 - [grid table](http://mdo.github.io/table-grid/)
+- [flexgrid](http://flexboxgrid.com/)
+- [mantis-grid](http://mantisjs.github.io/mantis-grid/)
 
 ## css framework
 - [corpuscss](http://corpuscss.com/)
