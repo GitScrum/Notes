@@ -46,6 +46,9 @@ git update-index --add --chmod=+x test-file
 ## SVG
 - [worldvectorlogo](https://worldvectorlogo.com/)
 
+## JS
+- [functional programming jargon](https://github.com/hemanth/functional-programming-jargon)
+
 ## react
 - [react activity component](http://lukevella.com/react-activity/)
 
