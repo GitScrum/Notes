@@ -46,6 +46,9 @@ git update-index --add --chmod=+x test-file
 ## SVG
 - [worldvectorlogo](https://worldvectorlogo.com/)
 
+## react
+- [react activity component](http://lukevella.com/react-activity/)
+
 ## awesome
 - [vue](https://github.com/vuejs/awesome-vue)
 - [ava](https://github.com/sindresorhus/awesome-ava)
