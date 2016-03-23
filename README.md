@@ -43,8 +43,9 @@ git update-index --add --chmod=+x test-file
 - [.npmignore](https://github.com/GitScrum/Notes/blob/master/.npmignore)
 - [.editorconfig](https://github.com/GitScrum/Notes/blob/master/.editorconfig)
 
-## SVG
-- [worldvectorlogo](https://worldvectorlogo.com/)
+## ICON
+- [worldvectorlogo](https://worldvectorlogo.com/) svg
+- [browser-logos](https://github.com/alrra/browser-logos) png/svg
 
 ## JS
 - [functional programming jargon](https://github.com/hemanth/functional-programming-jargon)
