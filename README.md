@@ -46,6 +46,7 @@ git update-index --add --chmod=+x test-file
 ## ICON
 - [worldvectorlogo](https://worldvectorlogo.com/) svg
 - [browser-logos](https://github.com/alrra/browser-logos) png/svg
+- [pride](https://github.com/thejameskyle/pride)
 
 ## JS
 - [functional programming jargon](https://github.com/hemanth/functional-programming-jargon)
