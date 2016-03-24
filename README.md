@@ -50,6 +50,7 @@ git update-index --add --chmod=+x test-file
 
 ## JS
 - [functional programming jargon](https://github.com/hemanth/functional-programming-jargon)
+- [ecmascript-more-export-from](https://github.com/leebyron/ecmascript-more-export-from)
 
 ## react
 - [react activity component](http://lukevella.com/react-activity/)
