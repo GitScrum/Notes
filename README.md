@@ -32,6 +32,7 @@ git update-index --add --chmod=+x test-file
 - [flexgrid](http://flexboxgrid.com/)
 - [mantis-grid](http://mantisjs.github.io/mantis-grid/)
 - [grid layout](https://www.rachelandrew.co.uk/archives/2016/03/16/css-exclusions-and-grid-layout/)
+- [grid guide](https://css-tricks.com/snippets/css/complete-guide-grid/)
 
 ## css framework
 - [corpuscss](http://corpuscss.com/)
