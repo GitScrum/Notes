@@ -59,6 +59,9 @@ git update-index --add --chmod=+x test-file
 ## react
 - [react activity component](http://lukevella.com/react-activity/)
 
+## generator
+- [readme-generatr](https://github.com/jonschlinkert/readme-generator)
+
 ## awesome
 - [vue](https://github.com/vuejs/awesome-vue)
 - [ava](https://github.com/sindresorhus/awesome-ava)
