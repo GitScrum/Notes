@@ -54,6 +54,7 @@ git update-index --add --chmod=+x test-file
 
 ## JS
 - [functional programming jargon](https://github.com/hemanth/functional-programming-jargon)
+- [computer-science-in-javascript](https://github.com/nzakas/computer-science-in-javascript)
 - [ecmascript-more-export-from](https://github.com/leebyron/ecmascript-more-export-from)
 - [ES5toES6](https://github.com/mohebifar/lebab)
 
