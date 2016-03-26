@@ -56,6 +56,9 @@ git update-index --add --chmod=+x test-file
 - [ecmascript-more-export-from](https://github.com/leebyron/ecmascript-more-export-from)
 - [ES5toES6](https://github.com/mohebifar/lebab)
 
+## parsers
+- [markdown](https://github.com/jonschlinkert/remarkable)
+
 ## react
 - [react activity component](http://lukevella.com/react-activity/)
 
