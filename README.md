@@ -26,6 +26,7 @@ git update-index --add --chmod=+x test-file
 ## css flex
 - [flexpattern](http://www.flexboxpatterns.com/home)
 - [css-flexbox](http://premium.wpmudev.org/blog/css-flexbox/)
+- [responsive table](https://css-tricks.com/accessible-simple-responsive-tables/)
 
 ## css grid
 - [grid table](http://mdo.github.io/table-grid/)
