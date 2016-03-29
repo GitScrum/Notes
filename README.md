@@ -13,10 +13,6 @@ git push origin :refs/tags/12345
 git update-index --add --chmod=+x test-file
 ```
 
-## Test spies
-- [sinon](https://github.com/sinonjs/sinon)
-- [descartes](https://github.com/mariusGundersen/descartes)
-
 ## email
 - [FreeCodeCamp](https://medium.freecodecamp.com/the-fab-four-technique-to-create-responsive-emails-without-media-queries-baf11fdfa848#.lrdf9zegi)
 - [spark](https://spark.ru/startup/pechkin-mail/blog/13313/vyorstka-pisem-60-poleznih-resursov-rukovodstv-i-issledovanij)
@@ -30,16 +26,15 @@ git update-index --add --chmod=+x test-file
 - [responsive table](http://dbushell.com/2016/03/04/css-only-responsive-tables/)
 
 ## css grid layout
+- [grid guide](https://css-tricks.com/snippets/css/complete-guide-grid/)
 - [responsive table](https://www.rachelandrew.co.uk/archives/2016/03/02/a-grid-solution-for-the-responsive-tables-problem/)
+- [grid layout](https://www.rachelandrew.co.uk/archives/2016/03/16/css-exclusions-and-grid-layout/)
+- [glid layout](http://css-live.ru/articles/podrobno-o-razmeshhenii-elementov-v-grid-raskladke-css-grid-layout.html)
+- [grid system](http://pintsize.io/)
 
 ## css grid
 - [grid table](http://mdo.github.io/table-grid/)
 - [flexgrid](http://flexboxgrid.com/)
-- [mantis-grid](http://mantisjs.github.io/mantis-grid/)
-- [grid layout](https://www.rachelandrew.co.uk/archives/2016/03/16/css-exclusions-and-grid-layout/)
-- [grid guide](https://css-tricks.com/snippets/css/complete-guide-grid/)
-- [glid layout](http://css-live.ru/articles/podrobno-o-razmeshhenii-elementov-v-grid-raskladke-css-grid-layout.html)
-- [grid system](http://pintsize.io/)
 
 ## css framework
 - [corpuscss](http://corpuscss.com/)
@@ -47,12 +42,6 @@ git update-index --add --chmod=+x test-file
 
 ## css stats
 - [cssstats](https://github.com/cssstats/cssstats)
-
-
-## dotFiles
-- [.gitignore](https://github.com/GitScrum/Notes/blob/master/.gitignore)
-- [.npmignore](https://github.com/GitScrum/Notes/blob/master/.npmignore)
-- [.editorconfig](https://github.com/GitScrum/Notes/blob/master/.editorconfig)
 
 ## ICON
 - [worldvectorlogo](https://worldvectorlogo.com/) svg
@@ -78,6 +67,10 @@ git update-index --add --chmod=+x test-file
 
 ## generator
 - [readme-generatr](https://github.com/jonschlinkert/readme-generator)
+
+## Test spies
+- [sinon](https://github.com/sinonjs/sinon)
+- [descartes](https://github.com/mariusGundersen/descartes)
 
 ## awesome
 - [vue](https://github.com/vuejs/awesome-vue)
