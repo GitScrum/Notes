@@ -68,6 +68,11 @@ git update-index --add --chmod=+x test-file
 ## parsers
 - [markdown](https://github.com/jonschlinkert/remarkable)
 
+## watcher
+- [chokidar](https://github.com/paulmillr/chokidar)
+- [onchange](https://github.com/Qard/onchange)
+- [nodemon](https://github.com/remy/nodemon)
+
 ## react
 - [react activity component](http://lukevella.com/react-activity/)
 
