@@ -53,6 +53,7 @@ git update-index --add --chmod=+x test-file
 - [functional programming jargon](https://github.com/hemanth/functional-programming-jargon)
 - [computer-science-in-javascript](https://github.com/nzakas/computer-science-in-javascript)
 - [ecmascript-more-export-from](https://github.com/leebyron/ecmascript-more-export-from)
+- [es6-cheatsheet](https://github.com/DrkSephy/es6-cheatsheet)
 - [ES5toES6](https://github.com/mohebifar/lebab)
 
 ## parsers
