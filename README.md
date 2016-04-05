@@ -48,8 +48,16 @@ git update-index --add --chmod=+x test-file
 ## components
 - [balloon](http://kazzkiq.github.io/balloon.css/)
 - [rating star](http://auxiliary.github.io/rater/)
+- [sticky-state](https://github.com/soenkekluth/sticky-state)
+- [bootstrap social btn/icon](https://lipis.github.io/bootstrap-social/)
+- [broken image](http://bitsofco.de/styling-broken-images/)
+- [product compare](https://codyhouse.co/gem/products-comparison-table/)
+- [timeline](https://codyhouse.co/gem/horizontal-timeline/)
+- [imperfect btn](http://codepen.io/tmrDevelops/pen/VeRvKX)
+- [remodal](http://vodkabears.github.io/remodal/)
+- [css loaders](http://projects.lukehaas.me/css-loaders/)
 
-## ICON
+## icon
 - [worldvectorlogo](https://worldvectorlogo.com/) svg
 - [browser-logos](https://github.com/alrra/browser-logos) png/svg
 - [pride](https://github.com/thejameskyle/pride)
