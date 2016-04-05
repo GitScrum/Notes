@@ -32,6 +32,7 @@ git update-index --add --chmod=+x test-file
 - [glid layout](http://css-live.ru/articles/podrobno-o-razmeshhenii-elementov-v-grid-raskladke-css-grid-layout.html)
 - [grid layout](http://css-live.ru/articles/mysli-vslux-o-podsetkax-v-css-grid-layout.html)
 - [grid system](http://pintsize.io/)
+- [grid layout](http://bitsofco.de/holy-grail-layout-css-grid/)
 
 ## css grid
 - [grid table](http://mdo.github.io/table-grid/)
