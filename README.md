@@ -45,8 +45,9 @@ git update-index --add --chmod=+x test-file
 ## css stats
 - [cssstats](https://github.com/cssstats/cssstats)
 
-## css balloon
+## components
 - [balloon](http://kazzkiq.github.io/balloon.css/)
+- [rating star](http://auxiliary.github.io/rater/)
 
 ## ICON
 - [worldvectorlogo](https://worldvectorlogo.com/) svg
