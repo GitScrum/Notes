@@ -54,8 +54,14 @@ git update-index --add --chmod=+x test-file
 - [product compare](https://codyhouse.co/gem/products-comparison-table/)
 - [timeline](https://codyhouse.co/gem/horizontal-timeline/)
 - [imperfect btn](http://codepen.io/tmrDevelops/pen/VeRvKX)
+- [ultimate hover effect btn](http://usingcss3.com/ultimate-use-of-css3-for-button-hover/)
 - [remodal](http://vodkabears.github.io/remodal/)
+- [modal/dialog system](http://rubaxa.github.io/Ply/)
 - [css loaders](http://projects.lukehaas.me/css-loaders/)
+- [range slider polifil for native](https://github.com/Stryzhevskyi/rangeSlider)
+- [gridster](http://gridster.net/) plugin that allows building intuitive draggable layouts from elements spanning multiple columns.
+- [sortable list](https://github.com/voidberg/html5sortable) plugin to create sortable lists and grids using native HTML5 drag and drop API.
+- [tooltip](http://kushagragour.in/lab/hint/)
 
 ## icon
 - [worldvectorlogo](https://worldvectorlogo.com/) svg
