@@ -75,7 +75,7 @@ git update-index --add --chmod=+x test-file
 - [es6-cheatsheet](https://github.com/DrkSephy/es6-cheatsheet)
 - [ES5toES6](https://github.com/mohebifar/lebab)
 - [js pattern](https://github.com/shichuan/javascript-patterns)
-
+- [promise](https://github.com/mattdesl/promise-cookbook#throw-and-implicit-catch)
 ## parsers
 - [markdown](https://github.com/jonschlinkert/remarkable)
 
