@@ -74,6 +74,7 @@ git update-index --add --chmod=+x test-file
 - [ecmascript-more-export-from](https://github.com/leebyron/ecmascript-more-export-from)
 - [es6-cheatsheet](https://github.com/DrkSephy/es6-cheatsheet)
 - [ES5toES6](https://github.com/mohebifar/lebab)
+- [js pattern](https://github.com/shichuan/javascript-patterns)
 
 ## parsers
 - [markdown](https://github.com/jonschlinkert/remarkable)
