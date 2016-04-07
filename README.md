@@ -62,6 +62,7 @@ git update-index --add --chmod=+x test-file
 - [gridster](http://gridster.net/) plugin that allows building intuitive draggable layouts from elements spanning multiple columns.
 - [sortable list](https://github.com/voidberg/html5sortable) plugin to create sortable lists and grids using native HTML5 drag and drop API.
 - [tooltip](http://kushagragour.in/lab/hint/)
+- [datadropper](https://github.com/felicegattuso/datedropper)
 
 ## icon
 - [worldvectorlogo](https://worldvectorlogo.com/) svg
@@ -76,6 +77,7 @@ git update-index --add --chmod=+x test-file
 - [ES5toES6](https://github.com/mohebifar/lebab)
 - [js pattern](https://github.com/shichuan/javascript-patterns)
 - [promise](https://github.com/mattdesl/promise-cookbook#throw-and-implicit-catch)
+
 ## parsers
 - [markdown](https://github.com/jonschlinkert/remarkable)
 
