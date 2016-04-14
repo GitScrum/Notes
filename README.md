@@ -66,6 +66,7 @@ git update-index --add --chmod=+x test-file
 - [datadropper](https://github.com/felicegattuso/datedropper)
 - [full screen vertical scroll](https://github.com/lukesnowden/FSVS)
 - [justified layout] (http://code.flickr.net/2016/04/05/our-justified-layout-goes-open-source/)
+- [poper](https://popper.js.org/) popover/tooltipe
 
 ## icon
 - [worldvectorlogo](https://worldvectorlogo.com/) svg
