@@ -105,3 +105,4 @@ git update-index --add --chmod=+x test-file
 - [vue](https://github.com/vuejs/awesome-vue)
 - [ava](https://github.com/sindresorhus/awesome-ava)
 - [flexbox](https://github.com/afonsopacifer/awesome-flexbox)
+- [eslint](https://github.com/dustinspecker/awesome-eslint)
