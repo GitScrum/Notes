@@ -38,6 +38,7 @@ git update-index --add --chmod=+x test-file
 ## css grid
 - [grid table](http://mdo.github.io/table-grid/)
 - [flexgrid](http://flexboxgrid.com/)
+- [flexbox for browsers not support flexbox](http://kyusuf.com/post/almost-complete-guide-to-flexbox-without-flexbox)
 
 ## css framework
 - [corpuscss](http://corpuscss.com/)
