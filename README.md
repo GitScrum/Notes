@@ -48,7 +48,14 @@ git update-index --add --chmod=+x test-file
 ## css stats
 - [cssstats](https://github.com/cssstats/cssstats)
 
+## css regression testing
+- [presentation slides](http://pres.suevalov.com/css-regression-testing/)
+- [phantmFlow](https://github.com/Huddle/PhantomFlow)
+- [backstopjs](https://github.com/garris/BackstopJS) [article](https://css-tricks.com/automating-css-regression-testing/)
+- [gmini](https://github.com/gemini-testing/gemini)
+
 ## components
+- [circular menu](http://www.cssplay.co.uk/menus/cssplay-bezier-curve-bounce-menu.html)
 - [balloon](http://kazzkiq.github.io/balloon.css/)
 - [rating star](http://auxiliary.github.io/rater/)
 - [sticky-state](https://github.com/soenkekluth/sticky-state)
@@ -71,6 +78,8 @@ git update-index --add --chmod=+x test-file
 - [justified layout] (http://code.flickr.net/2016/04/05/our-justified-layout-goes-open-source/)
 - [poper](https://popper.js.org/) popover/tooltipe
 - [360 degres](https://codyhouse.co/gem/360-degrees-product-viewer/)
+- [social likes](https://github.com/sapegin/social-likes-next/releases/tag/1.0.0)
+- [social sharing](http://js-socials.com/)
 
 ## icon
 - [worldvectorlogo](https://worldvectorlogo.com/) svg
