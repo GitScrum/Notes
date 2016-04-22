@@ -19,6 +19,9 @@ git update-index --add --chmod=+x test-file
 - [rightblog](http://rightblog.ru/2953)
 - [cerberus](http://tedgoas.github.io/Cerberus/)
 
+## html
+- [list head element](https://github.com/joshbuchea/HEAD)
+
 ## css flex
 - [flexpattern](http://www.flexboxpatterns.com/home)
 - [css-flexbox](http://premium.wpmudev.org/blog/css-flexbox/)
