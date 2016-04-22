@@ -98,6 +98,11 @@ git update-index --add --chmod=+x test-file
 - [js pattern](https://github.com/shichuan/javascript-patterns)
 - [promise](https://github.com/mattdesl/promise-cookbook#throw-and-implicit-catch)
 
+## scss/sass
+- [ruby sass-linter](https://github.com/brigade/scss-lint)
+- [sass style guide](https://github.com/bigcommerce/sass-style-guide)
+- [sass guideline](https://sass-guidelin.es/ru/)
+
 ## parsers
 - [markdown](https://github.com/jonschlinkert/remarkable)
 
