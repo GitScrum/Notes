@@ -27,6 +27,7 @@ git update-index --add --chmod=+x test-file
 - [css-flexbox](http://premium.wpmudev.org/blog/css-flexbox/)
 - [responsive table](https://css-tricks.com/accessible-simple-responsive-tables/)
 - [responsive table](http://dbushell.com/2016/03/04/css-only-responsive-tables/)
+- [flexbox pattern](http://www.flexboxpatterns.com/home)
 
 ## css grid layout
 - [grid guide](https://css-tricks.com/snippets/css/complete-guide-grid/)
@@ -74,6 +75,7 @@ git update-index --add --chmod=+x test-file
 - [css loaders](http://projects.lukehaas.me/css-loaders/)
 - [range slider polifil for native](https://github.com/Stryzhevskyi/rangeSlider)
 - [gridster](http://gridster.net/) plugin that allows building intuitive draggable layouts from elements spanning multiple columns.
+- [waterfall](http://raphamorim.com/waterfall.js/)
 - [sortable list](https://github.com/voidberg/html5sortable) plugin to create sortable lists and grids using native HTML5 drag and drop API.
 - [tooltip](http://kushagragour.in/lab/hint/)
 - [datadropper](https://github.com/felicegattuso/datedropper)
@@ -100,8 +102,8 @@ git update-index --add --chmod=+x test-file
 
 ## scss/sass
 - [ruby sass-linter](https://github.com/brigade/scss-lint)
-- [sass style guide](https://github.com/bigcommerce/sass-style-guide)
 - [sass guideline](https://sass-guidelin.es/ru/)
+- [sass generator styleguide](https://trulia.github.io/hologram/) need ruby
 
 ## parsers
 - [markdown](https://github.com/jonschlinkert/remarkable)
