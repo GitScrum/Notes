@@ -102,6 +102,7 @@ git update-index --add --chmod=+x test-file
 
 ## scss/sass
 - [ruby sass-linter](https://github.com/brigade/scss-lint)
+- [sass style guide](https://github.com/bigcommerce/sass-style-guide)
 - [sass guideline](https://sass-guidelin.es/ru/)
 - [sass generator styleguide](https://trulia.github.io/hologram/) need ruby
 
