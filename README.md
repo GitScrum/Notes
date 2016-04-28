@@ -57,6 +57,7 @@ git update-index --add --chmod=+x test-file
 - [phantmFlow](https://github.com/Huddle/PhantomFlow)
 - [backstopjs](https://github.com/garris/BackstopJS) [article](https://css-tricks.com/automating-css-regression-testing/)
 - [gmini](https://github.com/gemini-testing/gemini)
+- [css blend modes](https://css-tricks.com/visual-regression-testing-css-blend-modes/)
 
 ## components
 - [circular menu](http://www.cssplay.co.uk/menus/cssplay-bezier-curve-bounce-menu.html)
@@ -85,6 +86,11 @@ git update-index --add --chmod=+x test-file
 - [360 degres](https://codyhouse.co/gem/360-degrees-product-viewer/)
 - [social likes](https://github.com/sapegin/social-likes-next/releases/tag/1.0.0)
 - [social sharing](http://js-socials.com/)
+- [responsive paginator b3](http://auxiliary.github.io/rpage/)
+
+## cheat sheet
+- [boostrap 4](http://hackerthemes.com/bootstrap-cheatsheet/)
+- [keyboardEvent](https://docs.google.com/spreadsheets/d/1nIxSQf6auu0zXwP8l0IPrraYPoyfi9aEplExJGDk-o8/htmlview)
 
 ## icon
 - [worldvectorlogo](https://worldvectorlogo.com/) svg
