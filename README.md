@@ -80,6 +80,7 @@ git update-index --add --chmod=+x test-file
 - [waterfall](http://raphamorim.com/waterfall.js/)
 - [sortable list](https://github.com/voidberg/html5sortable) plugin to create sortable lists and grids using native HTML5 drag and drop API.
 - [tooltip](http://kushagragour.in/lab/hint/)
+- [drop](https://github.com/HubSpot/drop/) nice tooltip
 - [datadropper](https://github.com/felicegattuso/datedropper)
 - [full screen vertical scroll](https://github.com/lukesnowden/FSVS)
 - [scrollrevealjs](https://scrollrevealjs.org/)
