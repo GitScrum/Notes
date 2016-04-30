@@ -91,6 +91,7 @@ git update-index --add --chmod=+x test-file
 - [social sharing](http://js-socials.com/)
 - [responsive paginator b3](http://auxiliary.github.io/rpage/)
 - [menu btn effect](http://tympanus.net/Development/LineMenuStyles/)
+- [responsive nav](https://github.com/VPenkov/okayNav)
 
 ## cheat sheet
 - [boostrap 4](http://hackerthemes.com/bootstrap-cheatsheet/)
