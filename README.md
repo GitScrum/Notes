@@ -89,6 +89,7 @@ git update-index --add --chmod=+x test-file
 - [social likes](https://github.com/sapegin/social-likes-next/releases/tag/1.0.0)
 - [social sharing](http://js-socials.com/)
 - [responsive paginator b3](http://auxiliary.github.io/rpage/)
+- [menu btn effect](http://tympanus.net/Development/LineMenuStyles/)
 
 ## cheat sheet
 - [boostrap 4](http://hackerthemes.com/bootstrap-cheatsheet/)
