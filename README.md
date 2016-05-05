@@ -92,6 +92,7 @@ git update-index --add --chmod=+x test-file
 - [responsive paginator b3](http://auxiliary.github.io/rpage/)
 - [menu btn effect](http://tympanus.net/Development/LineMenuStyles/)
 - [responsive nav](https://github.com/VPenkov/okayNav)
+- [vanilla masker](https://github.com/BankFacil/vanilla-masker)
 
 ## cheat sheet
 - [boostrap 4](http://hackerthemes.com/bootstrap-cheatsheet/)
@@ -104,7 +105,7 @@ git update-index --add --chmod=+x test-file
 - [browser-logos](https://github.com/alrra/browser-logos) png/svg
 - [pride](https://github.com/thejameskyle/pride)
 
-## JS
+## JS read
 - [functional programming jargon](https://github.com/hemanth/functional-programming-jargon)
 - [computer-science-in-javascript](https://github.com/nzakas/computer-science-in-javascript)
 - [ecmascript-more-export-from](https://github.com/leebyron/ecmascript-more-export-from)
