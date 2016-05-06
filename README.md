@@ -61,6 +61,7 @@ git update-index --add --chmod=+x test-file
 - [css blend modes](https://css-tricks.com/visual-regression-testing-css-blend-modes/)
 
 ## components
+- [countdown and email](http://stylecampaign.com/blog/2016/04/building-a-dynamic-svg-timer/)
 - [circular menu](http://www.cssplay.co.uk/menus/cssplay-bezier-curve-bounce-menu.html)
 - [balloon](http://kazzkiq.github.io/balloon.css/)
 - [rating star](http://auxiliary.github.io/rater/)
