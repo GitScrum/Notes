@@ -113,6 +113,7 @@ git update-index --add --chmod=+x test-file
 - [ES5toES6](https://github.com/mohebifar/lebab)
 - [js pattern](https://github.com/shichuan/javascript-patterns)
 - [promise](https://github.com/mattdesl/promise-cookbook#throw-and-implicit-catch)
+- [esnext export default](http://stackoverflow.com/questions/32229947/is-there-any-one-line-analog-in-es6-for-es5-module-exports-require-inner-j)
 
 ## scss/sass
 - [ruby sass-linter](https://github.com/brigade/scss-lint)
