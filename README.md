@@ -94,6 +94,7 @@ git update-index --add --chmod=+x test-file
 - [menu btn effect](http://tympanus.net/Development/LineMenuStyles/)
 - [responsive nav](https://github.com/VPenkov/okayNav)
 - [vanilla masker](https://github.com/BankFacil/vanilla-masker)
+- [clipboard](https://clipboardjs.com/) copy text to clipboard
 
 ## cheat sheet
 - [boostrap 4](http://hackerthemes.com/bootstrap-cheatsheet/)
