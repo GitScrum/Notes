@@ -68,6 +68,7 @@ git update-index --add --chmod=+x test-file
 - [sticky-state](https://github.com/soenkekluth/sticky-state)
 - [bootstrap social btn/icon](https://lipis.github.io/bootstrap-social/)
 - [boostrap preload btn](http://msurguy.github.io/ladda-bootstrap/)
+- [boostrap checkbox](https://vsn4ik.github.io/bootstrap-checkbox/)
 - [broken image](http://bitsofco.de/styling-broken-images/)
 - [product compare](https://codyhouse.co/gem/products-comparison-table/)
 - [timeline](https://codyhouse.co/gem/horizontal-timeline/)
