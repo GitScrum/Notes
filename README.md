@@ -87,6 +87,7 @@ git update-index --add --chmod=+x test-file
 - [datadropper](https://github.com/felicegattuso/datedropper)
 - [full screen vertical scroll](https://github.com/lukesnowden/FSVS)
 - [scrollrevealjs](https://scrollrevealjs.org/)
+- [pagePiling](https://github.com/alvarotrigo/pagePiling.js)
 - [justified layout] (http://code.flickr.net/2016/04/05/our-justified-layout-goes-open-source/)
 - [poper](https://popper.js.org/) popover/tooltipe
 - [360 degres](https://codyhouse.co/gem/360-degrees-product-viewer/)
