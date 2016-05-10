@@ -121,7 +121,7 @@ git update-index --add --chmod=+x test-file
 - [esnext export default](http://stackoverflow.com/questions/32229947/is-there-any-one-line-analog-in-es6-for-es5-module-exports-require-inner-j)
 
 ## scss/sass
-- [ruby sass-linter](https://github.com/brigade/scss-lint)
+- [ruby scss-linter](https://github.com/brigade/scss-lint)
 - [sass style guide](https://github.com/bigcommerce/sass-style-guide)
 - [sass guideline](https://sass-guidelin.es/ru/)
 - [sass generator styleguide](https://trulia.github.io/hologram/) need ruby
