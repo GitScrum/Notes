@@ -151,3 +151,6 @@ git update-index --add --chmod=+x test-file
 - [flexbox](https://github.com/afonsopacifer/awesome-flexbox)
 - [eslint](https://github.com/dustinspecker/awesome-eslint)
 - [webpack](https://github.com/ruanyf/webpack-demos)
+
+## REST API SERVER
+- [json-server](https://github.com/typicode/json-server)
