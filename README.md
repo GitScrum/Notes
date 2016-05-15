@@ -128,6 +128,7 @@ git update-index --add --chmod=+x test-file
 - [sass style guide](https://github.com/bigcommerce/sass-style-guide)
 - [sass guideline](https://sass-guidelin.es/ru/)
 - [sass generator styleguide](https://trulia.github.io/hologram/) need ruby
+- [sass & hook](https://css-tricks.com/the-sass-ampersand/)
 
 ## parsers
 - [markdown](https://github.com/jonschlinkert/remarkable)
