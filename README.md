@@ -61,6 +61,7 @@ git update-index --add --chmod=+x test-file
 - [css blend modes](https://css-tricks.com/visual-regression-testing-css-blend-modes/)
 
 ## components
+- [jumpto](http://callmecavs.com/jump.js/)
 - [resumable](http://www.resumablejs.com/) upload file api
 - [countdown and email](http://stylecampaign.com/blog/2016/04/building-a-dynamic-svg-timer/)
 - [circular menu](http://www.cssplay.co.uk/menus/cssplay-bezier-curve-bounce-menu.html)
