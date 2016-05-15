@@ -99,6 +99,7 @@ git update-index --add --chmod=+x test-file
 - [responsive nav](https://github.com/VPenkov/okayNav)
 - [vanilla masker](https://github.com/BankFacil/vanilla-masker)
 - [clipboard](https://clipboardjs.com/) copy text to clipboard
+- [pinBox](https://github.com/NeZaMy/jquery.pinBox) affix elements
 
 ## cheat sheet
 - [boostrap 4](http://hackerthemes.com/bootstrap-cheatsheet/)
