@@ -61,6 +61,7 @@ git update-index --add --chmod=+x test-file
 - [css blend modes](https://css-tricks.com/visual-regression-testing-css-blend-modes/)
 
 ## components
+- [flipster](https://github.com/drien/jquery-flipster) slider
 - [jumpto](http://callmecavs.com/jump.js/)
 - [resumable](http://www.resumablejs.com/) upload file api
 - [countdown and email](http://stylecampaign.com/blog/2016/04/building-a-dynamic-svg-timer/)
