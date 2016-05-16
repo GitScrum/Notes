@@ -144,7 +144,12 @@ git update-index --add --chmod=+x test-file
 - [react activity component](http://lukevella.com/react-activity/)
 
 ## generator
-- [readme-generatr](https://github.com/jonschlinkert/readme-generator)
+- [readme-generator](https://github.com/jonschlinkert/readme-generator)
+
+## JS
+- [modules generator](http://rollupjs.org)
+- [transpiling](https://www.npmjs.com/package/buble)
+- [builder](https://github.com/gobblejs/gobble)
 
 ## Test spies
 - [sinon](https://github.com/sinonjs/sinon)
