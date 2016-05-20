@@ -81,6 +81,7 @@ git update-index --add --chmod=+x test-file
 - [remodal](http://vodkabears.github.io/remodal/)
 - [modal/dialog system](http://rubaxa.github.io/Ply/)
 - [modal](http://dixso.github.io/custombox/)
+- [modal](http://humaan.com/modaal/)
 - [css loaders](http://projects.lukehaas.me/css-loaders/)
 - [range slider polifil for native](https://github.com/Stryzhevskyi/rangeSlider)
 - [gridster](http://gridster.net/) plugin that allows building intuitive draggable layouts from elements spanning multiple columns.
