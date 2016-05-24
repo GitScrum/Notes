@@ -61,6 +61,7 @@ git update-index --add --chmod=+x test-file
 - [css blend modes](https://css-tricks.com/visual-regression-testing-css-blend-modes/)
 
 ## components
+- [scrollbear](http://changbenny.github.io/scrollbear/)
 - [bricklayer](https://github.com/ademilter/bricklayer) masonry minimal
 - [flipster](https://github.com/drien/jquery-flipster) slider
 - [jumpto](http://callmecavs.com/jump.js/)
