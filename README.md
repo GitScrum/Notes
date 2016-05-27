@@ -2,6 +2,8 @@
 
 ## Git
 
+- [git everyday use](http://www.alexkras.com/19-git-tips-for-everyday-use)
+
 ### Remove remote tag
 ```console
 git tag -d 12345
