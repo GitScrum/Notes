@@ -105,6 +105,7 @@ git push origin/master
 - [justified layout] (http://code.flickr.net/2016/04/05/our-justified-layout-goes-open-source/)
 - [poper](https://popper.js.org/) popover/tooltipe
 - [toast](https://egoistian.com/native-toast/) native notification
+- [push](http://nickersoft.github.io/push.js/) notification
 - [360 degres](https://codyhouse.co/gem/360-degrees-product-viewer/)
 - [social likes](https://github.com/sapegin/social-likes-next/releases/tag/1.0.0)
 - [social sharing](http://js-socials.com/)
