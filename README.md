@@ -114,6 +114,7 @@ git push origin/master
 - [vanilla masker](https://github.com/BankFacil/vanilla-masker)
 - [clipboard](https://clipboardjs.com/) copy text to clipboard
 - [pinBox](https://github.com/NeZaMy/jquery.pinBox) affix elements
+- [clippings layout grid](http://clippings.github.io/layout-grid/#)
 
 ## cheat sheet
 - [boostrap 4](http://hackerthemes.com/bootstrap-cheatsheet/)
