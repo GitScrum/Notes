@@ -117,6 +117,7 @@ git push origin/master
 - [pinBox](https://github.com/NeZaMy/jquery.pinBox) affix elements
 - [audio/video player](https://plyr.io/)
 - [clippings layout grid](http://clippings.github.io/layout-grid/#)
+- [image hover effects bs](http://miketricking.github.io/dist/)
 
 ## cheat sheet
 - [boostrap 4](http://hackerthemes.com/bootstrap-cheatsheet/)
