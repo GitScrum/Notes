@@ -69,6 +69,7 @@ git push origin/master
 - [css blend modes](https://css-tricks.com/visual-regression-testing-css-blend-modes/)
 
 ## components
+- [tablesort](http://tristen.ca/tablesort/demo/)
 - [simplezoom](https://kushagragour.in/simplezoom.js/) image zooming
 - [scrollbear](http://changbenny.github.io/scrollbear/)
 - [bricklayer](https://github.com/ademilter/bricklayer) masonry minimal
