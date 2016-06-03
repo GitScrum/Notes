@@ -3,6 +3,7 @@
 ## Git
 
 - [git everyday use](http://www.alexkras.com/19-git-tips-for-everyday-use)
+- [tips](https://github.com/git-tips/tips)
 
 ### Remove remote tag
 ```console
