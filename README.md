@@ -70,6 +70,7 @@ git push origin/master
 - [css blend modes](https://css-tricks.com/visual-regression-testing-css-blend-modes/)
 
 ## components
+- [slider range](http://leaverou.github.io/multirange/) vanilla slider multirange
 - [tablesort](http://tristen.ca/tablesort/demo/)
 - [simplezoom](https://kushagragour.in/simplezoom.js/) image zooming
 - [scrollbear](http://changbenny.github.io/scrollbear/)
