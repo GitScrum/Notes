@@ -71,6 +71,7 @@ git push origin/master
 
 ## components
 - [slider range](http://leaverou.github.io/multirange/) vanilla slider multirange
+- [lazy load](http://tylerdeitz.co/lazy-progressive-enhancement/)
 - [tablesort](http://tristen.ca/tablesort/demo/)
 - [simplezoom](https://kushagragour.in/simplezoom.js/) image zooming
 - [scrollbear](http://changbenny.github.io/scrollbear/)
