@@ -1,7 +1,7 @@
-# Notes
+Z# Notes
 
 ## Git
-
+- [learn git](http://tutorialzine.com/2016/06/learn-git-in-30-minutes/)
 - [git everyday use](http://www.alexkras.com/19-git-tips-for-everyday-use)
 - [tips](https://github.com/git-tips/tips)
 
