@@ -172,9 +172,10 @@ git push origin/master
 - [readme-generator](https://github.com/jonschlinkert/readme-generator)
 
 ## JS
-- [modules generator](http://rollupjs.org)
-- [transpiling](https://www.npmjs.com/package/buble)
-- [builder](https://github.com/gobblejs/gobble)
+- [modules generator](http://rollupjs.org) rollup
+- [transpiling](https://www.npmjs.com/package/buble) buble
+- [builder](https://github.com/gobblejs/gobble) gobble
+- [vanilla js components list](http://www.vanillalist.com/)
 
 ## Test spies
 - [sinon](https://github.com/sinonjs/sinon)
