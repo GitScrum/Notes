@@ -37,6 +37,7 @@ git push origin/master
 - [responsive table](https://css-tricks.com/accessible-simple-responsive-tables/)
 - [responsive table](http://dbushell.com/2016/03/04/css-only-responsive-tables/)
 - [flexbox pattern](http://www.flexboxpatterns.com/home)
+- [flexbox demo](http://progressivered.com/fla/)
 
 ## css grid layout
 - [grid guide](https://css-tricks.com/snippets/css/complete-guide-grid/)
