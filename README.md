@@ -63,6 +63,9 @@ git push origin/master
 ## css stats
 - [cssstats](https://github.com/cssstats/cssstats)
 
+## css tools
+- [wait animate](http://waitanimate.eggbox.io/#/)
+
 ## css regression testing
 - [presentation slides](http://pres.suevalov.com/css-regression-testing/)
 - [phantmFlow](https://github.com/Huddle/PhantomFlow)
