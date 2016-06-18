@@ -1,4 +1,4 @@
-Z# Notes
+# Notes
 
 ## Git
 - [learn git](http://tutorialzine.com/2016/06/learn-git-in-30-minutes/)
@@ -54,6 +54,7 @@ git push origin/master
 - [flexgrid](http://flexboxgrid.com/)
 - [flexbox for browsers not support flexbox](http://kyusuf.com/post/almost-complete-guide-to-flexbox-without-flexbox)
 - [grid layout mondrian](http://labs.jensimmons.com/#mondrian)
+- [bem grid](http://theprotein.github.io/sharps/gh-pages/index.html)
 
 ## css framework
 - [corpuscss](http://corpuscss.com/)
