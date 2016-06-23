@@ -129,6 +129,7 @@ git push origin/master
 - [audio/video player](https://plyr.io/)
 - [clippings layout grid](http://clippings.github.io/layout-grid/#)
 - [image hover effects bs](http://miketricking.github.io/dist/)
+- [progress var](https://kimmobrunfeldt.github.io/progressbar.js/)
 
 ## cheat sheet
 - [boostrap 4](http://hackerthemes.com/bootstrap-cheatsheet/)
