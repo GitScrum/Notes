@@ -75,6 +75,7 @@ git push origin/master
 - [css blend modes](https://css-tricks.com/visual-regression-testing-css-blend-modes/)
 
 ## components
+- [progressive collapsing navigation](https://kyusuf.com/post/completely-css-progressively-collapsing-navigation)
 - [slider range](http://leaverou.github.io/multirange/) vanilla slider multirange
 - [lazy load](http://tylerdeitz.co/lazy-progressive-enhancement/)
 - [tablesort](http://tristen.ca/tablesort/demo/)
