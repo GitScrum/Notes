@@ -137,6 +137,7 @@ git mv --force NAME name
 - [clippings layout grid](http://clippings.github.io/layout-grid/#)
 - [image hover effects bs](http://miketricking.github.io/dist/)
 - [progress var](https://kimmobrunfeldt.github.io/progressbar.js/)
+- [tone](https://github.com/Tonejs/Tone.js) audio player
 
 ## cheat sheet
 - [boostrap 4](http://hackerthemes.com/bootstrap-cheatsheet/)
