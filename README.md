@@ -139,6 +139,7 @@ git mv --force NAME name
 - [image hover effects bs](http://miketricking.github.io/dist/)
 - [progress var](https://kimmobrunfeldt.github.io/progressbar.js/)
 - [tone](https://github.com/Tonejs/Tone.js) audio player
+- [howler](https://howlerjs.com/) audio player
 
 ## cheat sheet
 - [boostrap 4](http://hackerthemes.com/bootstrap-cheatsheet/)
