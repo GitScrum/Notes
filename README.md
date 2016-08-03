@@ -140,6 +140,7 @@ git mv --force NAME name
 - [progress var](https://kimmobrunfeldt.github.io/progressbar.js/)
 - [tone](https://github.com/Tonejs/Tone.js) audio player
 - [howler](https://howlerjs.com/) audio player
+- [uppy](http://uppy.io/) file uploader es6
 
 ## cheat sheet
 - [boostrap 4](http://hackerthemes.com/bootstrap-cheatsheet/)
