@@ -82,6 +82,7 @@ git mv --force NAME name
 - [css blend modes](https://css-tricks.com/visual-regression-testing-css-blend-modes/)
 
 ## components
+- [forget](https://github.com/nosir/cleave.js) input masked
 - [multirange](https://github.com/LeaVerou/multirange)
 - [progressive collapsing navigation](https://kyusuf.com/post/completely-css-progressively-collapsing-navigation)
 - [slider range](http://leaverou.github.io/multirange/) vanilla slider multirange
