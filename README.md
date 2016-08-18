@@ -138,7 +138,7 @@ git mv --force NAME name
 - [audio/video player](https://plyr.io/)
 - [clippings layout grid](http://clippings.github.io/layout-grid/#)
 - [image hover effects bs](http://miketricking.github.io/dist/)
-- [progress var](https://kimmobrunfeldt.github.io/progressbar.js/)
+- [progress bar](https://kimmobrunfeldt.github.io/progressbar.js/)
 - [tone](https://github.com/Tonejs/Tone.js) audio player
 - [howler](https://howlerjs.com/) audio player
 - [uppy](http://uppy.io/) file uploader es6
