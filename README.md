@@ -81,7 +81,8 @@ git mv --force NAME name
 - [gmini](https://github.com/gemini-testing/gemini)
 - [css blend modes](https://css-tricks.com/visual-regression-testing-css-blend-modes/)
 
-## components5
+## components
+- [checkbox](https://urre.github.io/checkbix/) vanilla custome checkbox
 - [choices](https://joshuajohnson.co.uk/Choices/) vanilla custome select
 - [forget](https://github.com/nosir/cleave.js) input masked
 - [multirange](https://github.com/LeaVerou/multirange)
