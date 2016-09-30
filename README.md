@@ -187,7 +187,18 @@ git mv --force NAME name
 - [nodemon](https://github.com/remy/nodemon)
 
 ## react
+- [react best practics](https://camjackson.net/post/9-things-every-reactjs-beginner-should-know) 9 things every React.js beginner should know
+- [react boilerplate](https://github.com/mxstbr/react-boilerplate)
 - [react activity component](http://lukevella.com/react-activity/)
+- [react tutorial](https://24ways.org/2015/universal-react/)
+- [react howto](https://github.com/petehunt/react-howto/blob/master/README-ru.md)
+- [react course ru](https://www.gitbook.com/book/maxfarseer/react-course-ru/details)
+- [react sort and search](http://jsraccoon.ru/react-sort-and-search)
+
+## redux
+- [redux-in-real-life](http://iamakulov.com/talks/redux-in-real-life/)
+- [tic-tac-toe-js-redux-pattern](https://medium.com/@ramonvictor/tic-tac-toe-js-redux-pattern-in-plain-javascript-fffe37f7c47a#.6hinv9ry1)
+- [learn redux](https://learnredux.com/)
 
 ## generator
 - [readme-generator](https://github.com/jonschlinkert/readme-generator)
