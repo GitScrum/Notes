@@ -194,6 +194,7 @@ git mv --force NAME name
 - [react howto](https://github.com/petehunt/react-howto/blob/master/README-ru.md)
 - [react course ru](https://www.gitbook.com/book/maxfarseer/react-course-ru/details)
 - [react sort and search](http://jsraccoon.ru/react-sort-and-search)
+- [progressive web apps with react js](https://medium.com/@addyosmani/progressive-web-apps-with-react-js-part-i-introduction-50679aef2b12#.zgcycwigz)
 
 ## redux
 - [redux-in-real-life](http://iamakulov.com/talks/redux-in-real-life/)
