@@ -80,7 +80,7 @@ git mv --force NAME name
 - [backstopjs](https://github.com/garris/BackstopJS) [article](https://css-tricks.com/automating-css-regression-testing/)
 - [gmini](https://github.com/gemini-testing/gemini)
 - [css blend modes](https://css-tricks.com/visual-regression-testing-css-blend-modes/)
-
+- [nightwatch](https://github.com/nightwatchjs/nightwatch/)
 ## components
 - [checkbox](https://urre.github.io/checkbix/) vanilla custome checkbox
 - [choices](https://joshuajohnson.co.uk/Choices/) vanilla custome select
