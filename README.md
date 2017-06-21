@@ -6,12 +6,6 @@
 - [git everyday use](http://www.alexkras.com/19-git-tips-for-everyday-use)
 - [tips](https://github.com/git-tips/tips)
 
-### Remove remote tag
-```console
-git tag -d 12345
-git push origin :refs/tags/12345
-```
-
 ### Change cmod if files already in repository
 ```console
 git update-index --add --chmod=+x test-file
