@@ -9,12 +9,6 @@
 git update-index --add --chmod=+x test-file
 ```
 
-### Remove remote last push
-```console
-git reset --hard hash
-git push origin/master 
-```
-
 ### Rename to lowercase
 ```console
 git mv --force NAME name
