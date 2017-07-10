@@ -9,11 +9,6 @@
 git update-index --add --chmod=+x test-file
 ```
 
-### Rename to lowercase
-```console
-git mv --force NAME name
-```
-
 ## email
 - [kilogram](https://github.com/dudeonthehorse/kilogram) email builder
 - [FreeCodeCamp](https://medium.freecodecamp.com/the-fab-four-technique-to-create-responsive-emails-without-media-queries-baf11fdfa848#.lrdf9zegi)
