@@ -10,7 +10,7 @@ git update-index --add --chmod=+x test-file
 ```
 
 ## email
-- [kilogram](https://github.com/dudeonthehorse/kilogram) email builder
+- [kilogram](https://github.com/dudeonthehorse/kilogram)
 - [FreeCodeCamp](https://medium.freecodecamp.com/the-fab-four-technique-to-create-responsive-emails-without-media-queries-baf11fdfa848#.lrdf9zegi)
 - [spark](https://spark.ru/startup/pechkin-mail/blog/13313/vyorstka-pisem-60-poleznih-resursov-rukovodstv-i-issledovanij)
 - [rightblog](http://rightblog.ru/2953)
