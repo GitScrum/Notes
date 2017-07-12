@@ -49,9 +49,6 @@ git update-index --add --chmod=+x test-file
 - [bluma](http://bulma.io/)
 - [spectre](http://picturepan2.github.io/spectre/)
 
-## css stats
-- [cssstats](https://github.com/cssstats/cssstats)
-
 ## css tools
 - [wait animate](http://waitanimate.eggbox.io/#/)
 
