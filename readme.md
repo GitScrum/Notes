@@ -190,7 +190,6 @@ git update-index --add --chmod=+x test-file
 
 ## Test spies
 - [sinon](https://github.com/sinonjs/sinon)
-- [descartes](https://github.com/mariusGundersen/descartes)
 
 ## awesome
 - [vue](https://github.com/vuejs/awesome-vue)
