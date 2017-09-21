@@ -147,14 +147,6 @@ git update-index --add --chmod=+x test-file
 - [esnext export default](http://stackoverflow.com/questions/32229947/is-there-any-one-line-analog-in-es6-for-es5-module-exports-require-inner-j)
 - [js anomaly](https://github.com/ufostation/javascript.anomaly)
 
-## scss/sass
-- [ruby scss-linter](https://github.com/brigade/scss-lint)
-- [node scss-linter](https://github.com/kristerkari/stylelint-scss)
-- [sass style guide](https://github.com/bigcommerce/sass-style-guide)
-- [sass guideline](https://sass-guidelin.es/ru/)
-- [sass generator styleguide](https://trulia.github.io/hologram/) need ruby
-- [sass & hook](https://css-tricks.com/the-sass-ampersand/)
-
 ## parsers
 - [markdown](https://github.com/jonschlinkert/remarkable)
 
