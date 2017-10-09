@@ -147,9 +147,6 @@ git update-index --add --chmod=+x test-file
 - [esnext export default](http://stackoverflow.com/questions/32229947/is-there-any-one-line-analog-in-es6-for-es5-module-exports-require-inner-j)
 - [js anomaly](https://github.com/ufostation/javascript.anomaly)
 
-## parsers
-- [markdown](https://github.com/jonschlinkert/remarkable)
-
 ## watcher
 - [chokidar](https://github.com/paulmillr/chokidar)
 - [onchange](https://github.com/Qard/onchange)
