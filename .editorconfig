@@ -11,11 +11,5 @@ insert_final_newline = true
 [*.{json,yml,jade,pss,css,sass,scss,html}]
 indent_size = 2
 
-[*.{js,jsx,*sublime-*}]
-indent_style = tab
-
-[{lib/**/*.*,*.jpg,*.html}]
-insert_final_newline = false
-
 [*.md]
 trim_trailing_whitespace = false
