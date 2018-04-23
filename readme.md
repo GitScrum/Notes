@@ -65,6 +65,7 @@ git update-index --add --chmod=+x test-file
 - [jquery](https://oscarotero.com/jquery/)
 - [html5](http://www.hostingreviewbox.com/wp-content/uploads/2016/02/html5-cheat-sheet-1.png)
 - [jsx](http://jamesknelson.com/wp-content/uploads/2016/05/jsx-cheatsheet.pdf)
+- [all](https://devhints.io/)
 
 ## icon
 - [worldvectorlogo](https://worldvectorlogo.com/) svg
