@@ -4,6 +4,11 @@
 - [git everyday use](http://www.alexkras.com/19-git-tips-for-everyday-use)
 - [tips](https://github.com/git-tips/tips)
 
+### Rename remove 
+```console
+git remote rename origin upstream
+```
+
 ### Change cmod if files already in repository
 ```console
 git update-index --add --chmod=+x test-file
