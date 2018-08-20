@@ -66,7 +66,6 @@ git update-index --add --chmod=+x test-file
 
 ## cheat sheet
 - [boostrap 4](http://hackerthemes.com/bootstrap-cheatsheet/)
-- [keyboardEvent](https://docs.google.com/spreadsheets/d/1nIxSQf6auu0zXwP8l0IPrraYPoyfi9aEplExJGDk-o8/htmlview)
 - [jquery](https://oscarotero.com/jquery/)
 - [html5](http://www.hostingreviewbox.com/wp-content/uploads/2016/02/html5-cheat-sheet-1.png)
 - [jsx](http://jamesknelson.com/wp-content/uploads/2016/05/jsx-cheatsheet.pdf)
