@@ -53,9 +53,6 @@ git update-index --add --chmod=+x test-file
 - [corpuscss](http://corpuscss.com/)
 - [spectre](http://picturepan2.github.io/spectre/)
 
-## css tools
-- [wait animate](http://waitanimate.eggbox.io/#/)
-
 ## css regression testing
 - [presentation slides](http://pres.suevalov.com/css-regression-testing/)
 - [phantmFlow](https://github.com/Huddle/PhantomFlow)
