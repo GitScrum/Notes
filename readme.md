@@ -110,7 +110,6 @@ git update-index --add --chmod=+x test-file
 - [modules generator](http://rollupjs.org) rollup
 - [transpiling](https://www.npmjs.com/package/buble) buble
 - [builder](https://github.com/gobblejs/gobble) gobble
-- [vanilla js components list](http://www.vanillalist.com/)
 
 ## Test spies
 - [sinon](https://github.com/sinonjs/sinon)
